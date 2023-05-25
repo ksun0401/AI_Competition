@@ -1,1 +1,1 @@
-![air_press](<img width="1029" alt="air_press" src="https://github.com/ksun0401/AI_Competition/assets/70461025/90a25593-8b00-4ed4-b01b-9e06da85163e">)
+!("https://github.com/ksun0401/AI_Competition/assets/70461025/90a25593-8b00-4ed4-b01b-9e06da85163e")
