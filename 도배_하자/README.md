@@ -2,7 +2,7 @@
 #### focal Loss와 일반화를 위한 Augmentation, Label Smoothing을 적용하였다.
 
 
-##### private: 0.66704 (54/1025) \n
+##### private: 0.66704 (54/1025) 
 ###### Model: Swin Transformer_B 
 ###### Loss: Label Smoothing Loss + Focal Loss
 ###### lr: 3e-5
